@@ -1,2 +1,11 @@
-# Trabalho01
-Dupla - Pedro Henrique
+# Trabalho_01
+- Equipe: JavaQuestions
+- Nome Completo: Camila Braúna Tavares
+- Nome Completo: Pedro Henrique
+- Curso: Técnico Integrado em Informática
+- Turno: Integral
+- Turma: P3
+- Etapa: N1
+- Disciplina: POO
+- Professor: Roger Moura Sarmento
+- Data Entrega: 16/09/2022
