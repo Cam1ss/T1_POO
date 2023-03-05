@@ -1,7 +1,7 @@
 | Questões | Enunciado |
 | ------------- | -------------- |
-|  `02`  | Façaum programa que receba quatro números inteiros, calcule e mostre a soma desses números  |
-|  `15`  | Sabe-se que: 1 pé = 12 polegadas; 1 jarda= 3 pés; 1 milha = 1.760 jardas. Faça um programa que receba uma medida em pés, faça as conversões aseguir e mostre os resultados. a)polegadas; b) jardas; c) milhas |
-|  `06`  | Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade de ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará de ração no saco após cinco dias |  
-|  `08`  | Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário |        
-|  `11`  | Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado |
+|  `02`  | Faça um programa que receba tres numeros, calcule e mostre a multiplicaçao desses numeros  |
+|  `05`  | Façaum programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10% |
+|  `06`  |  Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas, calcule e mostre a comissão e o salário final do funcionário |  
+|  `08`  | Façaum programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas |        
+|  `11`  |  Faça um progama que calcule e mostre a área de um losangulo. Sabe-se que: A = (diagonal maior * menor)/2 |
