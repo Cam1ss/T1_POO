@@ -1,5 +1,5 @@
 # Trabalho_01
-- Equipe: JavaQuestions
+- Equipe: JavaExpress
 - Nome Completo: Camila Braúna Tavares
 - Nome Completo: Pedro Henrique
 - Curso: Técnico Integrado em Informática
