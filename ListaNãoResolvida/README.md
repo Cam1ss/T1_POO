@@ -7,3 +7,5 @@
 |  `06`  |  Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas, calcule e mostre a comissão e o salário final do funcionário |  
 |  `08`  | Façaum programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas |        
 |  `11`  |  Faça um progama que calcule e mostre a área de um losangulo. Sabe-se que: A = (diagonal maior * menor)/2 |
+|  `15`  |         |
+|  `17`  |         |
